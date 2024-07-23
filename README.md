@@ -4,7 +4,7 @@ Welcome to my Data Science Portfolio. Here you will find a collection of my proj
 
 ## Table of Contents
 
-- [Machine Learning](#MachineLearning)
+- [Machine Learning](./MachineLearning)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Generative AI](#generative-ai)
 - [Visualizations](#visualizations)
