@@ -1,7 +1,7 @@
-# Univariate Linear Regression
+# Machine Learning Traditional Binary Classification
 
 ## Contents 
-Project #1: **Project_LRU-CO2_vs_TempAnomalies**   
+Project #1: **Project_CTB-LoanApprovalPrediction**   
 This project applies supervised classification models to predict loan approval outcomes based on demographic, financial, and credit history data. Multiple versions of the dataset are created using outlier treatment (Winsorization, IQR), SMOTE balancing, and standardization. Eight models are trained and compared, and the best-performing model is used for generating predictions on a Kaggle test set.  
 
 ## Usage
