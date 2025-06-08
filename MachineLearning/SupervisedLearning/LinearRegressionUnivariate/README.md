@@ -8,4 +8,4 @@ Linear Regression Analysis: CO2 Concentration vs Temperature
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/univariate-linear-regression.git
+   git clone https://github.com/eoroot1974/DataSciencePortfolio.git
