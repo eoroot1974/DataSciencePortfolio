@@ -13,8 +13,8 @@ Welcome to my Data Science Portfolio. Here you will find a collection of my proj
 - [Time Series Analysis](#time-series-analysis)
 
 ### Machine Learning
-- [Supervised Learning Project](./MachineLearning/Project1)
-- [Unsupervised Learning Project](./MachineLearning/Project2)
+- [Supervised Learning Project](./MachineLearning/SupervisedLearning)
+- [Unsupervised Learning Project](./MachineLearning/UnsupervisedLearning)
 
 ### Artificial Intelligence
 - [Neural Networks Project](./ArtificialIntelligence/Project1)
