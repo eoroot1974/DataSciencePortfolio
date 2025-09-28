@@ -9,4 +9,4 @@ This repository contains implementations and analyses of various supervised lear
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/supervised-learning-algorithms.git
+   git clone https://github.com/eoroot1974/DataSciencePortfolio.git
