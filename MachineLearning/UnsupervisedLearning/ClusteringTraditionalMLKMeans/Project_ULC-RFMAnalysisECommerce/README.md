@@ -19,7 +19,6 @@ This project applies **KMeans clustering** to segment customers based on their *
 6. [Visualization](#6-visualization)  
 7. [Conclusion](#7-conclusion)  
 8. [Usage](#8-usage)  
-9. [Requirements](#9-requirements)
 
 ---
 
