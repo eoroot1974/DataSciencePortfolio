@@ -2,7 +2,7 @@
 
 ## Contents
 
-Project #1: **Project_CNB-LoanApprovalPrediction (Deep Learning Edition)**
+Project #1: **Project_CNB-LoanApprovalPrediction (Deep Learning Edition)**   
 This project applies **deep neural network models** to predict loan approval outcomes based on demographic, financial, and credit history data. Multiple dataset variants are prepared using **outlier treatment (Winsorization, IQR filtering)**, **class balancing with SMOTE**, and **feature standardization** to ensure optimal training conditions.
 
 Both **TensorFlow (Keras)** and **PyTorch** implementations are included, featuring shallow, deep, and batch-normalized network architectures.
