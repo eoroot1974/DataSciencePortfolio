@@ -143,7 +143,7 @@ The final model is suitable for **real-world credit risk assessment** or **autom
 ```bash
 git clone https://github.com/eoroot1974/DataSciencePortfolio.git
 cd DataSciencePortfolio
-jupyter notebook Project_CTB-LoanApprovalPrediction_DL.ipynb
+jupyter notebook Project_CNB-LoanApprovalPrediction_DL.ipynb
 ```
 
 ---
