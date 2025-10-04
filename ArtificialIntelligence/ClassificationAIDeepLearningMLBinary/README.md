@@ -16,7 +16,7 @@ All models are trained, validated, and compared across the prepared datasets, an
    git clone https://github.com/eoroot1974/DataSciencePortfolio.git
    ```
 2. Open the project directory and launch Jupyter Notebook or VS Code.
-3. Run the notebook `Project_CTB-LoanApprovalPrediction.ipynb` (Deep Learning version).
+3. Run the notebook `Project_CNB-LoanApprovalPrediction.ipynb` (Deep Learning version).
 4. The pipeline will:
 
    * Preprocess and balance the data
